@@ -1,0 +1,10 @@
+# Ignore .h5 and .keras files in the current directory
+*.h5
+*.keras
+
+# Ignore .h5 and .keras files in all subdirectories
+**/*.h5
+**/*.keras
+
+**/**/*.h5
+**/**/*.keras
